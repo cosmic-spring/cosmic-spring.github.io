@@ -1,6 +1,9 @@
 document.write("<ul>");
 document.write("<li><a href='index.html'>Home</a></li>");
 document.write("<li><a href='earendel.html'>Earendel</a></li>");
+document.write("<li><a href='about.html'>About</a></li>");
+document.write("</ul>");
+
 //document.write("<a href='#'>Science Products</a>");
 //document.write("<ul>");
 //document.write("<li><a href='publications.html'>Publications</a></li>");
@@ -21,4 +24,3 @@ document.write("<li><a href='earendel.html'>Earendel</a></li>");
 //document.write("<li><a href='right-sidebar.html'>Right Sidebar</a></li>");
 //document.write("<li><a href='images.html'>Color Images!</a></li>");
 //document.write("<li><a href='socials.html'>Social Media</a></li>");
-document.write("</ul>");
