@@ -114,10 +114,13 @@ document.write("<section class='contact'>");
 document.write("<header>");
 document.write("<h3>Want to see more?</h3>");
 document.write("</header>");
-document.write("<p>You can find us on our social medias and GitHub!</p>");
+document.write("Follow us on <a href=https://twitter.com/CosmicSprngJWST>Twitter</a> and <a href=https://www.instagram.com/CosmicSpringJWST>Instagram</a>.")
+document.write("<br>")
+document.write("Find our analysis code on <a href=https://github.com/cosmic-spring>Github</a>.")
+document.write("</p>")
 document.write("<ul class='icons'>");
 document.write("<li><a href='https://twitter.com/CosmicSprngJWST' class='icon brands fa-twitter'><span class='label'>Twitter</span></a></li>");
-document.write("<li><a href='https://www.instagram.com/CosmicSpringJWST/' class='icon brands fa-instagram'><span class='label'>Instagram</span></a></li>");
+document.write("<li><a href='https://www.instagram.com/CosmicSpringJWST' class='icon brands fa-instagram'><span class='label'>Instagram</span></a></li>");
 document.write("<li><a href='https://github.com/cosmic-spring' class='icon brands fa-github'><span class='label'>Pinterest</span></a></li>");
 document.write("</ul>");
 document.write("</section>");

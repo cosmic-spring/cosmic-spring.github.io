@@ -2,6 +2,7 @@ document.write("<ul>");
 document.write("<li><a href='index.html'>Home</a></li>");
 document.write("<li><a href='earendel.html'>Earendel</a></li>");
 document.write("<li><a href='about.html'>About</a></li>");
+document.write("<li><a href='team.html'>Team</a></li>");
 document.write("</ul>");
 
 //document.write("<a href='#'>Science Products</a>");
